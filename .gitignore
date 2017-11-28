@@ -53,5 +53,9 @@ nbproject/
 **/nbactions.xml
 /bindings/java/src/main/resources/libsigar-amd64-linux.so
 /bindings/java/src/main/resources/org/hyperic/sigar/libsigar-amd64-linux.so
+<<<<<<< HEAD
 .DS_Store
 libsigar-amd64-darwin.dylib
+=======
+x64/
+>>>>>>> c71293a91d25435a75407bfcd4877ccbb9a0f835
